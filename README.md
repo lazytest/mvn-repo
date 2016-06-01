@@ -3,7 +3,7 @@
     <repositories>
     	<repository>
     		<id>lazytest</id>
-    		<url>https://raw.githubusercontent.com/lazytest/mvn-repo/master/</url>
+    		<url>https://raw.githubusercontent.com/lazytest/mvn-repo/master/repository</url>
     	</repository>
     </repositories>
     
